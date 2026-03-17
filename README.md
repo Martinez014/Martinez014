@@ -25,6 +25,9 @@
 
 ### 💰 Bancalux
 Sistema web para gestión de cuentas bancarias (depósitos, retiros, usuarios)  
+
+🔧 Tecnologías: PHP, HTML, MySQL  
+👨‍💻 Proyecto en equipo – contribuidor activo  
 👉 [Ver repositorio](https://github.com/FEM12/Bancalux)
 
 ### 📱 App Android
