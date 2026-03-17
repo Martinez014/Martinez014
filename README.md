@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hola, soy Alejandro Martínez
 
-<!--
-**Martinez014/Martinez014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería en Computación  
+🚀 Enfocado en desarrollo backend y bases de datos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+- Actualmente aprendiendo C# y desarrollo backend  
+- Experiencia en soporte técnico  
+- Interés en bases de datos y sistemas  
+- En constante aprendizaje  
+
+---
+
+## 🛠️ Tecnologías
+- C#, SQL, PHP (básico)  
+- SQL Server, MySQL  
+- HTML, CSS  
+- Git & GitHub  
+
+---
+
+## 📂 Proyectos destacados
+
+### 💰 Bancalux
+Sistema web para gestión de cuentas bancarias (depósitos, retiros, usuarios)  
+👉 [Ver repositorio](https://github.com/FEM12/Bancalux)
+
+### 📱 App Android
+Aplicación móvil desarrollada como parte de un desafío  
+👉 [Ver repositorio](https://github.com/Martinez014/MR222768_Desafio1)
+
+---
+
+## 📫 Contacto
+- Email: edmilson.alejandro12@gmail.com
